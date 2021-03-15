@@ -1,0 +1,1 @@
+# qsq-java-springcloud-config
